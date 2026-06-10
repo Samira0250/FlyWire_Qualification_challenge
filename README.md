@@ -81,8 +81,7 @@ source("flywire_analysis_clean.R")
 
 ## References
 
-- Dorkenwald S, McKellar CE, Macrina T, Kemnitz N, Lee K, Lu R, Wu J, Popovych S, Mitchell E, Nehoran B, Jia Z, Bae JA, Mu S, Ih D, Castro M, Ogedengbe O, Halageri A, Kuehner K, Sterling AR, Ashwood Z, Zung J, Brittain D, Collman F, Schneider-Mizell C, Jordan C, Silversmith W, Baker C, Deutsch D, Encarnacion-Rivera L, Kumar S, Burke A, Bland D, Gager J, Hebditch J, Koolman S, Moore M, Morejohn S, Silverman B, Willie K, Willie R, Yu SC, Murthy M, Seung HS. FlyWire: online community for whole-brain connectomics. Nat Methods. 2022 Jan;19(1):119-128. doi: 10.1038/s41592-021-01330-0. Epub 2021 Dec 23. PMID: 34949809; PMCID: PMC8903166.
+- Dorkenwald S, McKellar CE, Macrina T, Kemnitz N, Lee K, Lu R, Wu J, Popovych S, Mitchell E, Nehoran B, Jia Z. FlyWire: online community for whole-brain connectomics. Nature methods. 2022 Jan;19(1):119-28.
 - Schlegel P, Yin Y, Bates AS, Dorkenwald S, Eichler K, Brooks P, Han DS, Gkantia M, Dos Santos M, Munnelly EJ, Badalamente G. Whole-brain annotation and multi-connectome cell typing quantifies circuit stereotypy in Drosophila. BioRxiv. 2023 Jul 15.
-
 - Matsliah A, et al. FlyWire Codex. Princeton Neuroscience Institute. https://codex.flywire.ai
 - Cordella LP, et al. (2004). A (sub)graph isomorphism algorithm for matching large graphs. *IEEE TPAMI*, 26(10), 1367–1372.
