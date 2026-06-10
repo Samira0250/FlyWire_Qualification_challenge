@@ -1,7 +1,7 @@
 # FlyWire Qualification Challenge
 **Largest Shared Neuronal Circuit Across Connectome Datasets**
 
-Submitted by: Samira Salimiyan | Graduate Program in Biomedical Sciences | June 2026
+Submitted by: Samira Salimiyan | PhD student in Biomedical Sciences | June 2026
 
 ---
 
