@@ -1,5 +1,3 @@
-# FlyWire_Qualification_challenge
-
 # FlyWire Qualification Challenge
 **Largest Shared Neuronal Circuit Across Connectome Datasets**
 
