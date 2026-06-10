@@ -1,0 +1,6 @@
+dataset,median_degree,mean_degree,max_degree,neurons_deg1,neurons_deg5plus
+banc,24,48.5,3430,1609,102303
+fafb,40,67.8,12786,369,105561
+manc,335,448.9,7238,5,23612
+maol,183,251,21115,194,51290
+mcns,46,75.3,14230,422,160643

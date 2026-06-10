@@ -1,0 +1,4 @@
+comparison,n_nodes_A,n_nodes_B,edges_A,edges_B,isomorphic
+FAFB vs BANC,2942,2942,2881,3890,FALSE
+FAFB vs MCNS,2942,2942,2881,2925,FALSE
+BANC vs MCNS,2942,2942,3890,2925,FALSE
