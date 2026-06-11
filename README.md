@@ -79,6 +79,9 @@ source("flywire_analysis_clean.R")
 
 ---
 
+# Acknowledgments
+Code development and debugging were assisted by Claude Sonnet 4.5 (Anthropic, 2025). All analyses, interpretations, and scientific conclusions are the author's own.
+
 ## References
 
 - Dorkenwald S, McKellar CE, Macrina T, Kemnitz N, Lee K, Lu R, Wu J, Popovych S, Mitchell E, Nehoran B, Jia Z. FlyWire: online community for whole-brain connectomics. Nature methods. 2022 Jan;19(1):119-28.
