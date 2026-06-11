@@ -79,7 +79,7 @@ source("flywire_analysis_clean.R")
 
 ---
 
-# Acknowledgments
+# Acknowledgements
 Code development and debugging were assisted by Claude Sonnet 4.5 (Anthropic, 2025). All analyses, interpretations, and scientific conclusions are the author's own.
 
 ## References
