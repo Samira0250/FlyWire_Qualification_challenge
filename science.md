@@ -1,6 +1,6 @@
 # Biological Significance of the Shared Neuronal Circuit Across FlyWire Connectomes
 
-**Author:** [Your Name] | Graduate Program in Biomedical Sciences | June 2026  
+**Author:** Samira Salimiyan | PhD Student in Biomedical Sciences | June 2026  
 **Datasets:** FAFB (Female Adult Brain) · BANC (Female Brain + Nerve Cord) · MCNS (Male Full CNS)  
 **Circuit size:** N = 2,942 neurons · 37,638 directed edges
 
